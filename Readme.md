@@ -1,6 +1,6 @@
 # Bangladesh 2.0 Website
 
-## About
+## Project Description
 
 **Bangladesh 2.0** is my **first web development project**, built using **HTML and CSS only**.  
 The website showcases the vision, pillars, recent news, donation options, inspirational quotes, and newsletter subscription for a modern and developed Bangladesh.
@@ -8,68 +8,49 @@ The website showcases the vision, pillars, recent news, donation options, inspir
 It demonstrates **responsive design**, interactive hover effects, and well-structured content without using any frameworks.
 
 ---
+## Setup Steps
+1. Clone the repository or download the ZIP 
+2. Open your terminal and run the following command:
+   ```bash
+   git clone https://github.com/AshiqurRahmanAshik/Bangladesh-2.0.git
+3. Open `index.html` in any modern web browser
+
+👁️ [View Live Project](https://ashiqurrahmanashik.github.io/Bangladesh-2.0/)
 
 ## Features
 
 ### Banner Section
+<img width="1792" height="652" alt="image" src="https://github.com/user-attachments/assets/39dfb4dc-cf73-4695-afb7-46a120340ec1" />
 
-- Eye-catching background to grab user attention.
-- Heading and description on the left for key information.
-- Complementary image on the right.
-- Proper alignment and spacing for a clean layout.
 
 ### The Vision of Future
 
-- Three informative cards in a row.
-- Unique backgrounds for each card.
-- Icons/images for visual representation.
-- Title, description, and colorful action buttons.
+<img width="1877" height="822" alt="image" src="https://github.com/user-attachments/assets/3a09cb6a-a5ec-4d6b-a4b9-114b564d0d4a" />
+
 
 ### Recent News
 
-- Two news cards with alternating image placement.
-- Each card has a title, details, channel logo, and publication time.
-- “Read More” buttons for user interaction.
+<img width="1841" height="883" alt="image" src="https://github.com/user-attachments/assets/10fa1f5b-ca64-4686-9da2-67320a6cfdf7" />
 
 ### Donate for Bangladesh
 
-- Centered title and subtitle to highlight the donation call-to-action.
-- Four donation amount cards in a row.
-- Full-width input for custom donation amounts.
-- Centered donation button for easy interaction.
+<img width="1807" height="496" alt="image" src="https://github.com/user-attachments/assets/ac1b7a6b-2c10-485f-b5ed-ed48744c808f" />
 
-### Quote Section
 
-- Dedicated section for an inspirational quote.
-- Styled background and icon for visual appeal.
 
 ### Newsletter Subscription
 
-- Centered title and subtitle to encourage subscription.
-- Input field with a subscribe button.
-- Clean and distinct background for visual separation.
-
-### Interactivity
-
-- Hover effects on cards and buttons.
-- Responsive layout for desktop, tablet, and mobile devices.
+<img width="1842" height="402" alt="image" src="https://github.com/user-attachments/assets/48d1bd8f-d704-464e-9c03-7a43c4bfa2d0" />
 
 ---
-
-## Requirements
-
-This project was built to meet the following requirements:
-
-1. **Banner Section:** Visually appealing with text on the left, image on the right, proper alignment.
-2. **The Vision of Future:** Three cards with unique backgrounds, icons, titles, descriptions, and buttons.
-3. **Recent News:** Two cards with alternating image placement, news title, details, logos, and action buttons.
-4. **Donate for Bangladesh:** Four donation options, input for custom amount, centered donation button.
-5. **Quote Section:** Dedicated section with styled background for inspirational quotes.
-6. **Newsletter Section:** Input field and subscribe button on a visually distinct background.
-7. **Hover Effects:** Buttons and cards change appearance on hover.
-8. **Responsive Design:** Fully responsive layout for desktop, tablet, and mobile.
-9. **Commit History:** Minimum five commits to track progress.
-10. **Content:** No placeholder text; all content is meaningful and relevant.
+### My Learning from this project
+- HTML Semantic Structure
+- CSS Layout & Positioning
+- Styling & Theming
+- Cards & Component Design
+- Interactivity with CSS
+- Forms
+- Mobile & Responsive Awareness
 
 ---
 
