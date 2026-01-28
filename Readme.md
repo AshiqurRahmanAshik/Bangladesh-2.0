@@ -17,7 +17,7 @@ It demonstrates **responsive design**, interactive hover effects, and well-struc
 
 👁️ [View Live Project](https://ashiqurrahmanashik.github.io/Bangladesh-2.0/)
 
-## Features
+## Project Glimpse
 
 ### Banner Section
 <img width="1792" height="652" alt="image" src="https://github.com/user-attachments/assets/39dfb4dc-cf73-4695-afb7-46a120340ec1" />
